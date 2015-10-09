@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/"
+     xmlns:prx="http://www.proxyrss.com/specification.html"
+     version="2.0">
+<channel>
+    <title>Proxz.com : free, fresh, and fast</title>
+    <link>http://www.proxz.com/</link>
+    <description>Supplying you with proxies since 2003</description>
+    <image>
+        <title>Proxz.com : free, fresh, and fast</title>
+        <url>http://www.proxz.com/images/88x31.gif</url>
+        <link>http://www.proxz.com/</link>
+    </image>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 06 Mar 2015 15:41:26 EST</lastBuildDate>
+    <ttl>60</ttl>
+    <managingEditor>info@proxz.com</managingEditor>
+    <generator>Proxy RSS Generator v0.1</generator>
+    <item>
+        <title>High anonymous proxies on 2015/03/6 20:41:26</title>
+        <link>http://www.proxz.com/proxy_list_high_anonymous_0.html</link>
+        <description>1339 proxies are in the database at the moment.</description>
+        <guid>http://www.proxz.com/proxy_list_high_anonymous_0.html</guid>
+        <prx:proxy><prx:ip>183.223.173.237</prx:ip><prx:port>8123</prx:port><prx:type>Anonymous</prx:type><prx:country>China</prx:country><prx:check_timestamp>03/6 20:23:47</prx:check_timestamp></prx:proxy>
+        <prx:proxy><prx:ip>183.221.208.44</prx:ip><prx:port>8123</prx:port><prx:type>Anonymous</prx:type><prx:country_code>CN</prx:country_code><prx:check_timestamp>03/6 20:21:37</prx:check_timestamp></prx:proxy>
+        <prx:proxy><prx:ip>183.221.160.12</prx:ip><prx:port>8123</prx:port><prx:type>Anonymous</prx:type></prx:proxy>
+        <prx:proxy><prx:ip>32.21.19.4</prx:ip><prx:port>8080</prx:port><prx:type>Anonymous</prx:type><prx:country_code>US</prx:country_code><prx:check_timestamp>03/6 20:21:37</prx:check_timestamp></prx:proxy>
+        <prx:proxy><prx:ip>241.2.28.99</prx:ip><prx:port>8080</prx:port><prx:type>Anonymous</prx:type><prx:country>United States</prx:country><prx:check_timestamp>03/6 20:21:37</prx:check_timestamp></prx:proxy>
+        <prx:proxy><prx:ip>183.221.160.12</prx:ip><prx:port>8123</prx:port><prx:type>Anonymous</prx:type><prx:check_timestamp>03/6 20:21:34</prx:check_timestamp></prx:proxy>
+</item>
+</channel>
+</rss>
